@@ -1,8 +1,8 @@
-FROM python:3.9ssh
+FROM python:3.9
 
 WORKDIR /code
 
-COPY ./requirements.txt /code/reqirements.txt
+COPY ./requirements.txt /code/requirements.txt
 
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 
