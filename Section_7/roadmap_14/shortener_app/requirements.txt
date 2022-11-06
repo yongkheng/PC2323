@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+validators
+jinja2
+python-multipart
