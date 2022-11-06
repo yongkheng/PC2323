@@ -1,0 +1,101 @@
+city,People,Planet,Profit,Overall,Country,Continent
+Zurich,27,1,5,1,Switzerland,Europe
+Singapore,48,12,1,2,Singapore,Asia
+Stockholm,14,2,10,3,Sweden,Europe
+Vienna,4,4,14,4,Austria,Europe
+London,37,9,3,5,U.K.,Europe
+Frankfurt,16,5,23,6,Germany,Europe
+Seoul,1,26,18,7,South Korea,Asia
+Hamburg,3,10,25,8,Germany,Europe
+Prague,6,31,7,9,Czechia,Europe
+Munich,8,24,11,10,Germany,Europe
+Amsterdam,7,19,16,11,Netherlands,Europe
+Geneva,30,3,42,12,Switzerland,Europe
+Edinburgh,38,22,6,13,U.K.,Europe
+Copenhagen,24,13,17,14,Denmark,Europe
+Paris,20,32,9,15,France,Europe
+Hong Kong,81,29,2,16,China,Asia
+Berlin,5,16,32,17,Germany,Europe
+Canberra,17,25,20,18,Australia,Oceania
+Rotterdam,2,17,46,19,Netherlands,Europe
+Madrid,18,11,34,20,Spain,Europe
+Sydney,25,8,35,21,Australia,Oceania
+Rome,33,7,49,22,Italy,Europe
+Vancouver,23,18,29,23,Canada,North America
+Barcelona,13,23,43,24,Spain,Europe
+Manchester,31,14,51,25,U.K.,Europe
+New York,77,33,8,26,U.S.,North America
+Wellington,50,6,58,27,New Zealand,Oceania
+Montreal,10,27,54,28,Canada,North America
+Antwerp,11,37,40,29,Belgium,Europe
+Brisbane,21,41,30,30,Australia,Oceania
+Birmingham,28,15,60,31,U.K.,Europe
+Melbourne,22,49,26,32,Australia,Oceania
+Toronto,40,28,38,33,Canada,North America
+Boston,41,45,22,34,U.S.,North America
+Dublin,39,39,39,35,Ireland,Europe
+Glasgow,42,20,64,36,U.K.,Europe
+Warsaw,15,54,36,37,Poland,Europe
+Leeds,26,21,69,38,U.K.,Europe
+San Francisco,54,53,12,39,U.S.,North America
+Brussels,12,34,66,40,Belgium,Europe
+Macau,69,51,15,41,China,Asia
+Milan,34,36,57,42,Italy,Europe
+Seattle,61,35,33,43,U.S.,North America
+Washington,67,48,21,44,U.S.,North America
+Tokyo,44,50,28,45,Japan,Asia
+Lisbon,29,43,61,46,Portugal,Europe
+Lyon,19,40,71,47,France,Europe
+Taipei,32,71,27,48,Taiwan,Asia
+Denver,47,64,24,49,U.S.,North America
+Los Angeles,49,60,47,50,U.S.,North America
+Philadelphia,66,46,55,51,U.S.,North America
+Dubai,55,96,4,52,UAE,Middle East
+Baltimore,80,42,52,53,U.S.,North America
+Miami,89,47,41,54,U.S.,North America
+Kuala Lumpur,53,84,19,55,Malaysia,Asia
+Dallas,82,59,31,56,U.S.,North America
+Moscow,35,87,44,57,Russia,Europe
+Abu Dhabi,60,95,13,58,UAE,Middle East
+Houston,79,68,37,59,U.S.,North America
+Chicago,74,67,45,60,U.S.,North America
+New Orleans,93,44,59,61,U.S.,North America
+Pittsburgh,51,73,63,62,U.S.,North America
+Atlanta,70,78,48,63,U.S.,North America
+Shenzhen,73,66,56,64,China,Asia
+Indianapolis,83,61,62,65,U.S.,North America
+Athens,52,52,72,66,Greece,Europe
+Bangkok,64,79,53,67,Thailand,Asia
+Tampa,84,56,70,68,U.S.,North America
+Detroit,72,65,65,69,U.S.,North America
+Kuwait City,36,89,68,70,Kuwait,Middle East
+Santiago,85,57,76,71,Chile,South America
+Doha,57,98,50,72,Qatar,Middle East
+Beijing,45,97,67,73,China,Asia
+Shanghai,43,91,77,74,China,Asia
+Muscat,9,88,85,75,Oman,Middle East
+Riyadh,56,82,79,76,Saudi Arabia,Middle East
+Istanbul,90,74,75,77,Turkey,Europe
+Guangzhou,65,80,78,78,China,Asia
+Sao Paulo,97,30,84,79,Brazil,South America
+Buenos Aires,88,63,82,80,Argentina,South America
+Jeddah,59,81,81,81,Saudi Arabia,Middle East
+Rio de Janeiro,95,38,86,82,Brazil,South America
+Lima,91,94,74,83,Peru,South America
+Mexico City,96,58,83,84,Mexico,North America
+Tianjin,68,77,87,85,China,Asia
+Amman,71,55,97,86,Jordan,Middle East
+Hanoi,46,76,94,87,Vietnam,Asia
+Jakarta,58,85,88,88,Indonesia,Asia
+Chennai,76,69,95,89,India,Asia
+Johannesburg,99,72,73,90,South Africa,Africa
+Bengaluru,75,62,99,91,India,Asia
+Mumbai,86,75,93,92,India,Asia
+Chengdu,63,92,92,93,China,Asia
+Wuhan,62,99,89,94,China,Asia
+Cape Town,100,70,80,95,South Africa,Africa
+Manila,94,86,91,96,Philippines,Asia
+New Delhi,87,90,96,97,India,Asia
+Nairobi,98,83,90,98,Kenya,Africa
+Cairo,92,93,98,99,Egypt,Africa
+Kolkata,78,100,100,100,India,Asia

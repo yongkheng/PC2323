@@ -1,0 +1,47 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<img src="/static/greencity.png" style="float: left; max-width: 120px; margin-right: 20px;" alt="">
+<h1>Sustainable Cities Index Service API</h1>
+
+<h3>API Endpoints</h3>
+
+<p>
+<ul>
+    <li>
+        <a href="/api/sustain/kuala_lumpur?factor=overall"
+           target="_blank">
+            <strong>GET /api/sustain/{city}?factor={factor}</strong>
+        </a><br>
+        <br>
+        <strong>Description:</strong>
+        The api retrieves the Substainable Cities Index of a city based on social, environmental, and economic factors. There are 100 major global cities involved in this ranking. More information can be found at
+        <a href="https://www.arcadis.com/en/knowledge-hub/perspectives/global/sustainable-cities-index" target="_blank">Arcadis</a><br>
+        <strong>Parameters</strong>
+        <ul>
+            <li><strong>Required</strong>: <code>city={city}</code> :: specify the city to retrieve the sustainable index.</li>
+            <li>Optional: <code>factor={factor}</code> :: <code>{factor}</code> is one of the options: <code>overall</code>, <code>people</code>, <code>planet</code>, and <code>profit</code></li>
+        </ul>
+
+        <strong>Response JSON</strong>: Click for example output
+        <ul>
+            <li><a href="/api/sustain/zurich" target="_blank">/api/sustain/zurich</a>
+            </li>
+            <li><a href="/api/sustain/penang" target="_blank">
+                /api/sustain/penang</a>
+            </li>
+            <li><a href="/api/sustain/london?factor=people" target="_blank">
+                /api/sustain/london?factor=people</a>
+            </li>
+        </ul>
+        </div>
+    </li>
+</ul>
+</p>
+
+<br><br>
+
+
+{% endblock %}
+
